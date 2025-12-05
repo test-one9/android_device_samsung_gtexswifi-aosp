@@ -1,0 +1,13 @@
+service engpcclientwcn /system/bin/engpc -p wcn -a /dev/ttyGS2 -d /dev/ttyGS3
+    class core
+    user system
+    group system radio shell bluetooth net_bt_stack
+    disabled
+    oneshot
+
+service engpcclientw /system/bin/engpc -p w -a /dev/ttyGS1 -d /dev/ttyGS1 -l /dev/ttyGS1
+    class core
+    user system
+    group system radio shell bluetooth net_bt_stack
+    disabled
+    oneshot
