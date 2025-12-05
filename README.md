@@ -1,4 +1,4 @@
-### LineageOS device tree for Samsung Galaxy Tab A 7.0 (2016) (gtexswifi)
+### AOSP 7.1.2  device tree for Samsung Galaxy Tab A 7.0 (2016) (gtexswifi)
 
 Component   | Details
 -------:|:-------------------------
