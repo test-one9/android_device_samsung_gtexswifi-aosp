@@ -32,7 +32,7 @@ If you want to compile LineageOS-14.1 for gtexswifi follow [LinegeOS Getting sta
     <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1"/>
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
     <project path="kernel/samsung/gtexswifi" name="underscoremone/android_kernel_samsung_gtexswifi" remote="github" revision="cm-14.1"/>
-    <project path="device/samsung/gtexswifi" name="underscoremone/android_device_samsung_gtexswifi" remote="github" revision="cm-14.1"/>
+    <project path="device/samsung/gtexswifi" name="test-one9/android_device_samsung_gtexswifi-aosp" remote="github" revision="main"/>
     <project path="vendor/samsung/gtexswifi" name="underscoremone/proprietary_vendor_samsung_gtexswifi" remote="github" revision="cm-14.1"/>
     <project path="hardware/sprd" name="underscoremone/android_hardware_sprd" remote="github" revision="cm-14.1"/>
     <project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1"/>
